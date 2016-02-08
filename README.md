@@ -1,4 +1,6 @@
 #Plugins
+
+[![Join the chat at https://gitter.im/Lord-Mohammad/Plugins](https://badges.gitter.im/Lord-Mohammad/Plugins.svg)](https://gitter.im/Lord-Mohammad/Plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * New Plugins Created By 
 [ArMan](https://github.com/Thisisarman) ([Telegram](https://telegram.me/thisisarman))
 * PLUGINS are in CLI Folder!
